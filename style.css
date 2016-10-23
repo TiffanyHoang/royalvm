@@ -1,0 +1,49 @@
+body {
+    line-height: 2rem;
+}
+.splash {
+    text-align: center;
+    padding: 20px;
+}
+
+.logo {
+    width: 250px;
+}
+
+h1 {
+    color: #50A9DD;
+}
+
+.yellow-line {
+    background: #F9BF38;
+    height: 2px;
+    /*width: 50%;*/
+    margin-bottom: 5px;
+}
+
+.red-line {
+    background: #EC2A28;
+    height: 2px;
+    /*width: 70%;*/
+    margin-bottom: 5px;
+}
+
+.blue-line {
+    background: #50A9DD;
+    height: 2px;
+    /*width: 100%;*/
+}
+
+.promotion {
+    padding: 1rem;
+    background: #F9BF38;
+    color: #EC2A28;
+    font-size: 2rem;
+    font-weight: bold;
+    margin: 1rem;
+}
+
+.mitsubisi-link {
+    color: #EC2A28;
+}
+
